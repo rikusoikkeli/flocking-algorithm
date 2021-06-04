@@ -9,3 +9,5 @@ The three rules being:
 3. Cohesion: steer to move towards the average position of local flockmates
 
 To run this you'll need Unity version 2020.3.7f1.
+
+Oh and I added the feature for them to avoid obstacles, too.
