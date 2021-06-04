@@ -10,4 +10,4 @@ The three rules being:
 
 To run this you'll need Unity version 2020.3.7f1.
 
-Oh and I added the feature for them to avoid obstacles, too.
+Oh and I added the feature for the agents to avoid obstacles, too.
